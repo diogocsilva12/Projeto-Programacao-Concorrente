@@ -64,4 +64,4 @@ O cliente e servidor comunicam através de mensagens de texto simples separadas 
 - Conexão de rede
 
 ### Demo
-![Demo](https://github.com/diogocsilva12/ProjetoPC/blob/1cadea4fd0b33f715e814022bfd221e6b27c5238/Demo.gif)
+![Demo](https://github.com/diogocsilva12/Projeto-Programacao-Concorrente/blob/61ca3d7b4c5add893680ed3dea1f147f8fc91c8c/Demo.gif)
